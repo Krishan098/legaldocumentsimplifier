@@ -1,1 +1,1 @@
-# legaldocumentsimplifier
+# legaldocumentsummarizer
