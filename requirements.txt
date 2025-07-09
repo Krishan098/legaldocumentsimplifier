@@ -4,3 +4,4 @@ rouge-score
 numpy
 streamlit
 torch
+kaggle
