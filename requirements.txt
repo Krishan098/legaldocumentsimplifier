@@ -5,3 +5,4 @@ numpy
 streamlit
 torch
 kagglehub
+PyPDF2
