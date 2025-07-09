@@ -3,3 +3,4 @@ nltk
 rouge-score
 numpy
 streamlit
+torch
